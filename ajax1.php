@@ -6,7 +6,9 @@ require_once 'config.php';
  <head>
  	<title>using ajax </title>
  	<style type="text/css">
- 		
+ 		ul li{
+ 			list-style: none;
+ 		}
  	</style>
  	<script type="text/javascript">
  		function userInput(str){
