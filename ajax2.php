@@ -10,7 +10,7 @@ if($result->num_rows >0){
 	}
 }
 else{
-	echo "no details for given student above !";
+	echo "no details for given student above !!!!";
 }
  
 
